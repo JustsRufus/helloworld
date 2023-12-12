@@ -1,2 +1,2 @@
 # helloworld
-Just to say `Hello World`
+Just to say `Hello`
